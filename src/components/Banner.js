@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "../assets/avatar.png";
-import { FaGithub, FaLinkedin, FaMailBulk } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
@@ -58,14 +58,14 @@ const Banner = () => {
             </div>
 
             <div className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0 ">
-              <a href="linkedin.com/in/tomiwatheanalyst/">
+              <a  href="http://linkedin.com/in/tomiwatheanalyst/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin />
               </a>
-              <a href="https://github.com/Tomiwahimself">
+              <a href="https://github.com/Tomiwahimself" target="_blank" rel="noopener noreferrer">
                 <FaGithub />
               </a>
               <a href="#">
-                <FaMailBulk />
+                <FaTwitter />
               </a>
             </div>
           </div>

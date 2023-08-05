@@ -77,8 +77,8 @@ const About = () => {
             </div>
 
             <div className="flex gap-x-8 items-center">
-              <button className="btn btn-lg">Contact me</button>
-              <a href="#" className="text-gradient btn-link">
+              <button className="btn btn-lg"><a href="https://docs.google.com/document/d/1jU4KJznBABCMTlkTeuKKqipFMwNHrfPg/edit?usp=sharing&ouid=117297486223789244966&rtpof=true&sd=true"  download target="_blank">Download Cv</a></button>
+              <a href="#"className="text-gradient btn-link">
                 My Portfolio
               </a>
             </div>

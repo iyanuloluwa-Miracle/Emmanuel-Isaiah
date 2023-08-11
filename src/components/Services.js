@@ -45,7 +45,15 @@ const Services = () => {
               Motivated Business Intelligence Analyst, Data Analyst and Product
               Manager
             </h3>
-            <button className="btn btn-sm">See my work</button>
+            <button className="btn btn-sm">
+              <a
+                href="https://github.com/Tomiwahimself"
+                download
+                target="_blank"
+              >
+                See my work
+              </a>
+            </button>
           </div>
 
           <div className="flex-1">
@@ -66,11 +74,15 @@ const Services = () => {
                       </p>
                     </div>
                     <div className="flex flex-col flex-1 items-end">
-                      <a href="#" className="btn w-9 h-9 mb-[42px] flex justify-center items-center">
+                      <a
+                        href="#"
+                        className="btn w-9 h-9 mb-[42px] flex justify-center items-center"
+                      >
                         <BsArrowUpRight />
                       </a>
-                      <a href="#" className="text-gradient text-sm">{link}</a>
-
+                      <a href="#" className="text-gradient text-sm">
+                        {link}
+                      </a>
                     </div>
                   </div>
                 );

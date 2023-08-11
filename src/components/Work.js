@@ -24,7 +24,18 @@ const Work = () => {
                 
               </p>
 
-              <button className="btn btn-sm">View all Projects</button>
+              <button className="btn btn-sm">
+                <a
+                 href="https://github.com/Tomiwahimself"
+                 target="_blank"
+                  
+                >
+
+                  View all Projects
+
+                </a>
+                
+              </button>
             </div>
 
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">

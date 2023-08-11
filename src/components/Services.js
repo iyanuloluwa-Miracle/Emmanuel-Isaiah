@@ -10,25 +10,25 @@ const services = [
   {
     name: "Bussiness Intelligence Analyst",
     description:
-      "Motivated BI Analyst with a BSc in Computer Science and 14 months of experience, transitioning to Data Science for impactful data-driven decisions.",
+      "Experienced BI Analyst with BSc in Computer Science, transitioning to impactful Data Science. Expert in insights from complex data for informed strategies, growth, and improvement.",
     link: "Learn more",
   },
   {
     name: "Data Analyst",
     description:
-      "Data Analyst | Motivated BI Analyst with a BSc in Computer Science and 14 months of experience, transitioning to Data Science for impactful data-driven decisions.",
+      "Dedicated BI professional and proficient Data Analyst with BSc in Computer Science. Shifting to Data Science after 14 months in BI for impactful, informed decisions. Skillful in extracting insights from complex data, integrating for strategic success.",
     link: "Learn more",
   },
   {
     name: "Product Manager",
     description:
-      "Product Manager | Strategic visionary shaping exceptional products. Proficient in full product lifecycle, from ideation to launch. Let's innovate and create remarkable user experiences.",
+      "Experienced Product Manager shaping exceptional products, adept at full lifecycle from inception to launch. Dedicated to innovation, user experiences, and visionary strategies that exceed expectations. Let's pioneer innovation together for unparalleled value.",
     link: "Learn more",
   },
   {
     name: "Project Manager",
     description:
-      "Project Manager | Seasoned professional adept at orchestrating diverse teams and resources to deliver successful projects. Proven track record of driving efficiency and fostering collaboration. Let's achieve excellence together.",
+      "Experienced Project Manager adept at leading diverse teams to triumphant outcomes. Expert in efficiency, collaboration, and seamless execution. Let's partner for excellent, successful projects.",
     link: "Learn more",
   },
 ];

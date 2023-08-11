@@ -24,19 +24,25 @@ const About = () => {
             // whiteinview={"show"}
             // viewport={{ once: false, amount: 0.3 }}
 
-          className="flex-1 bg-about bg-contain bg-no-repeat h-[640px] bg-top "></motion.div>
+            className="flex-1 bg-about bg-contain bg-no-repeat h-[640px] bg-top "
+          ></motion.div>
 
           <div className="flex-1">
             <h2 className="h2 text-accent">About me</h2>
             <h3 className="h3 mb-4">
-              Motivated Business Intelligence Analyst, Data Analyst and Product Manager
+              Motivated Business Intelligence Analyst, Data Analyst and Product
+              Manager
             </h3>
             <p className="mb-6">
-              Experienced BI Analyst with a BSc in Computer Science, seeking to
-              enhance expertise in business analysis and pursue a career in Data
-              Science. Strong analytical mindset, attention to detail, and
-              proficient data skills. Eager to contribute insights for
-              data-driven decision-making and drive business growth.
+              Enthusiastic about Data Science, Business Analysis, and Project
+              Management, I'm a seasoned BI Analyst and Data professional with a
+              BSc in Computer Science. My journey reflects a profound dedication
+              to honing skills that merge analytical precision with strategic
+              vision. As a fervent advocate for data-driven decision-making, I
+              am resolute in my mission to not only contribute invaluable
+              insights but also to orchestrate projects that redefine industry
+              standards. Eager to catalyze business growth, empower teams, and
+              craft a future where innovation knows no bounds.
             </p>
 
             <div className="flex gap-x-6 lg:gap-x-10 mb-12 ">
@@ -52,10 +58,7 @@ const About = () => {
 
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
-                  {inView ? <CountUp start={0} end={8} duration={3} /> : null}
-                 
-                    +
-
+                  {inView ? <CountUp start={0} end={8} duration={3} /> : null}+
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
                   Projects <br />
@@ -65,9 +68,7 @@ const About = () => {
 
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
-                  {inView ? <CountUp start={0} end={6} duration={3} /> : null}
-                  +
-                 
+                  {inView ? <CountUp start={0} end={6} duration={3} /> : null}+
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
                   Satisfied <br />
@@ -77,12 +78,19 @@ const About = () => {
             </div>
 
             <div className="flex gap-x-8 items-center">
-              <button className="btn btn-lg"><a href="https://docs.google.com/document/d/1jU4KJznBABCMTlkTeuKKqipFMwNHrfPg/edit?usp=sharing&ouid=117297486223789244966&rtpof=true&sd=true"  download target="_blank">Download Cv</a></button>
-              <a href="#"className="text-gradient btn-link">
+              <button className="btn btn-lg">
+                <a
+                  href="https://docs.google.com/document/d/1jU4KJznBABCMTlkTeuKKqipFMwNHrfPg/edit?usp=sharing&ouid=117297486223789244966&rtpof=true&sd=true"
+                  download
+                  target="_blank"
+                >
+                  Download Cv
+                </a>
+              </button>
+              <a href="#" className="text-gradient btn-link">
                 My Portfolio
               </a>
             </div>
-
           </div>
         </div>
       </div>

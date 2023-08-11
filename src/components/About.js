@@ -87,7 +87,7 @@ const About = () => {
                   Download Cv
                 </a>
               </button>
-              <a href="#" className="text-gradient btn-link">
+              <a href="#work" className="text-gradient btn-link">
                 My Portfolio
               </a>
             </div>

@@ -12,7 +12,14 @@ const Header = () => {
 
         </a>
 
-        <button className='btn btn-sm'>Work with me</button>
+        <button className='btn btn-sm'>
+          <a
+            href='#contact'
+          >
+           Work with me
+
+          </a>
+        </button>
 
       </div>
     </div>

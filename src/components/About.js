@@ -33,16 +33,8 @@ const About = () => {
               Motivated Business Intelligence Analyst, Data Analyst and Product
               Manager
             </h3>
-            <p className="mb-6">
-              Enthusiastic about Data Science, Business Analysis, and Project
-              Management, I'm a seasoned BI Analyst and Data professional with a
-              BSc in Computer Science. My journey reflects a profound dedication
-              to honing skills that merge analytical precision with strategic
-              vision. As a fervent advocate for data-driven decision-making, I
-              am resolute in my mission to not only contribute invaluable
-              insights but also to orchestrate projects that redefine industry
-              standards. Eager to catalyze business growth, empower teams, and
-              craft a future where innovation knows no bounds.
+            <p className="sm:mb-3 mb-6">
+            I'm a dedicated BI Analyst and Data professional with a BSc in Computer Science. My journey blends analytical precision with strategic vision. As an advocate for data-driven decision-making, I'm committed to providing insights and leading projects that redefine industry standards. I aim to catalyze business growth, empower teams, and drive innovation
             </p>
 
             <div className="flex gap-x-6 lg:gap-x-10 mb-12 ">

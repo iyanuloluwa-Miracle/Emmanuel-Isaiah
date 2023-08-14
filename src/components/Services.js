@@ -10,19 +10,19 @@ const services = [
   {
     name: "Bussiness Intelligence Analyst",
     description:
-      "Experienced BI Analyst with BSc in Computer Science, transitioning to impactful Data Science. Expert in insights from complex data for informed strategies, growth, and improvement.",
+      "Experienced BI Analyst transitioning to impactful Data Science. Expert in deriving insights from complex data for informed strategies, growth, and improvement.",
     link: "Learn more",
   },
   {
     name: "Data Analyst",
     description:
-      "Dedicated BI professional and proficient Data Analyst with BSc in Computer Science. Shifting to Data Science after 14 months in BI for impactful, informed decisions. Skillful in extracting insights from complex data, integrating for strategic success.",
+      "Dedicated BI professional shifting to impactful Data Science. Skilled in extracting insights from complex data for informed decisions and strategic success",
     link: "Learn more",
   },
   {
     name: "Product Manager",
     description:
-      "Experienced Product Manager shaping exceptional products, adept at full lifecycle from inception to launch. Dedicated to innovation, user experiences, and visionary strategies that exceed expectations. Let's pioneer innovation together for unparalleled value.",
+      "Experienced Product Manager driving innovation, from inception to launch. Let's pioneer together",
     link: "Learn more",
   },
   {

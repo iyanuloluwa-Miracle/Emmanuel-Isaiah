@@ -17,7 +17,7 @@ const Work = () => {
         <div className="flex flex-col lg:flex-row gap-x-10">
           <div className="flex-1 flex flex-col gap-y-12 mb-10 lg:mb-0">
             <div>
-              <h2 className="h2 leading-tight text-accent"> My Latest Work</h2>
+              <h2 className="h2 leading-tight text-accent"> My Creative Portfolio</h2>
               <p className="max-w-sm mb-16">
                 Experienced BI Analyst with a BSc in Computer Science, seeking
                 to enhance expertise in business and enjoying doing some fun stuffs for and enjoying the break and also crusing when necessary.
@@ -31,7 +31,7 @@ const Work = () => {
                   
                 >
 
-                  My Creative Portfolio
+                  View all Projects
 
                 </a>
                 

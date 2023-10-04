@@ -31,7 +31,7 @@ const Work = () => {
                   
                 >
 
-                  View all Projects
+                  My Creative Portfolio
 
                 </a>
                 
@@ -48,7 +48,7 @@ const Work = () => {
               />
 
               <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
-                <span className="text-gradient">Data Analyst</span>
+                <span className="text-gradient">Product-Recommendation-Engine</span>
               </div>
 
               <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">

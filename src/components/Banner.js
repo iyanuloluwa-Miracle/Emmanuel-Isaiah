@@ -40,14 +40,14 @@ const Banner = () => {
                 repeat={Infinity}
               />
             </div>
-            <p className="mb-8 max-w-lg mx-auto lg:mx-0">
+            {/* <p className="mb-8 max-w-lg mx-auto lg:mx-0">
               Experienced Business Intelligence Analyst with a BSc in Computer
               Science, seeking to enhance expertise in business analysis and
               pursue a career in Data Science. Strong analytical mindset,
               attention to detail, and proficient data skills. Eager to
               contribute insights for data-driven decision-making and drive
               business growth.
-            </p>
+            </p> */}
             <div className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0">
               <button className="btn btn-lg">Contact me</button>
               <a href="#work" className="text-gradient btn-link">

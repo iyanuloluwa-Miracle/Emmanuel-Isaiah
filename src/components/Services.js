@@ -41,10 +41,10 @@ const Services = () => {
 
           <div className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mb-12 lg:mb-0">
             <h2 className="h2 text-accent mb-6">My expertise</h2>
-            <h3 className="h3 max-w-[455px] mb-16">
+            {/* <h3 className="h3 max-w-[455px] mb-16">
               Motivated Business Intelligence Analyst, Data Analyst and Product
               Manager
-            </h3>
+            </h3> */}
             <button className="btn btn-sm">
               <a
                 href="https://github.com/Tomiwahimself"

@@ -8,29 +8,29 @@ import { fadeIn } from "../variants";
 
 const services = [
   {
-    name: "Bussiness Intelligence Analyst",
+    name: "Data Analysis and Insights",
     description:
-      "Experienced BI Analyst transitioning to impactful Data Science. Expert in deriving insights from complex data for informed strategies, growth, and improvement.",
+      "Turning Data into Decisions, and Ideas into Innovations.",
     link: "Learn more",
   },
   {
-    name: "Data Analyst",
+    name: "Product Strategy and Development",
     description:
-      "Dedicated BI professional shifting to impactful Data Science. Skilled in extracting insights from complex data for informed decisions and strategic success",
+      "Product Strategy and Development",
     link: "Learn more",
   },
   {
-    name: "Product Manager",
+    name: "Stakeholder Collaboration ",
     description:
-      "Experienced Product Manager driving innovation, from inception to launch. Let's pioneer together",
+      "Connecting Teams, Uniting Visions, and Delivering Excellence",
     link: "Learn more",
   },
-  {
-    name: "Project Manager",
-    description:
-      "Experienced Project Manager adept at leading diverse teams to triumphant outcomes. Expert in efficiency, collaboration, and seamless execution. Let's partner for excellent, successful projects.",
-    link: "Learn more",
-  },
+  // {
+  //   name: "Project Manager",
+  //   description:
+  //     "Experienced Project Manager adept at leading diverse teams to triumphant outcomes. Expert in efficiency, collaboration, and seamless execution. Let's partner for excellent, successful projects.",
+  //   link: "Learn more",
+  // },
 ];
 const Services = () => {
   return (
@@ -40,7 +40,7 @@ const Services = () => {
           {/**/}
 
           <div className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mb-12 lg:mb-0">
-            <h2 className="h2 text-accent mb-6">What I Do</h2>
+            <h2 className="h2 text-accent mb-6">My expertise</h2>
             <h3 className="h3 max-w-[455px] mb-16">
               Motivated Business Intelligence Analyst, Data Analyst and Product
               Manager

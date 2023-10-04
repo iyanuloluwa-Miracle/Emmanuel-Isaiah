@@ -34,7 +34,8 @@ const About = () => {
               Manager
             </h3>
             <p className="mb-6">
-            I'm a dedicated BI Analyst and Data professional with a BSc in Computer Science. My journey blends analytical precision with strategic vision. As an advocate for data-driven decision-making, I'm committed to providing insights and leading projects that redefine industry standards. I aim to catalyze business growth, empower teams, and drive innovation
+            Experienced Business Analyst and Product Manager, specialized in data analysis, product strategy, requirements gathering, and project management. With this unique blend, I bridge the worlds of Business Analysis and Product Management to serve your organization's needs.
+
             </p>
 
             <div className="flex gap-x-6 lg:gap-x-10 mb-12 ">

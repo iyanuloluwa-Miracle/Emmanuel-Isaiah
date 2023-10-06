@@ -30,11 +30,13 @@ const About = () => {
           <div className="flex-1">
             <h2 className="h2 text-accent">About me</h2>
             <h3 className="h3 mb-4">
-              Motivated Business Intelligence Analyst, Data Analyst and Product
+              Motivated Business Analyst and Product
               Manager
             </h3>
             <p className="mb-6">
-            Experienced Business Analyst and Product Manager, specialized in data analysis, product strategy, requirements gathering, and project management. With this unique blend, I bridge the worlds of Business Analysis and Product Management to serve your organization's needs.
+            Dive into a world of data-driven innovation and product excellence. Check out my exciting projects that blend the art of business analysis with the science of product management. 
+              Each one is a unique journey towards problem-solving and user-centric solutions.
+                .
 
             </p>
 

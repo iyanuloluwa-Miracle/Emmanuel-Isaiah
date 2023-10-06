@@ -16,7 +16,7 @@ const services = [
   {
     name: "Product Strategy and Development",
     description:
-      "Product Strategy and Development",
+      "Crafting Products, Shaping Strategies and Inspiring Success",
     link: "Learn more",
   },
   {

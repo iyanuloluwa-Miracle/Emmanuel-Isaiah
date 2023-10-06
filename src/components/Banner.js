@@ -26,7 +26,7 @@ const Banner = () => {
             </motion.h1>
 
             <div className="mb-6 text-[36px] lg:text-[-60px] font-secondary font-semibold uppercase leading-[1]">
-              <span className=" text-black mr-4">I am a</span>
+              <span className=" text-black mr-4">I'M A</span>
               <TypeAnimation
                 sequence={[
                   "Business Analyst",
@@ -62,7 +62,7 @@ const Banner = () => {
               <a href="https://github.com/Tomiwahimself" target="_blank" rel="noopener noreferrer">
                 <FaGithub />
               </a>
-              <a href="#">
+              <a href="https://twitter.com/_tomiwahimself" target="_blank" rel="noopener noreferrer">
                 <FaTwitter />
               </a>
             </div>

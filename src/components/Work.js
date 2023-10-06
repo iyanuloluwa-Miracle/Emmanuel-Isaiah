@@ -19,8 +19,8 @@ const Work = () => {
             <div>
               <h2 className="h2 leading-tight text-accent"> My Creative Portfolio</h2>
               <p className="max-w-sm mb-16">
-                Experienced BI Analyst with a BSc in Computer Science, seeking
-                to enhance expertise in business and enjoying doing some fun stuffs for and enjoying the break and also crusing when necessary.
+              Dive into a world of data-driven innovation and product excellence. Check out my exciting projects that blend the art of business analysis with the science of product management. 
+              Each one is a unique journey towards problem-solving and user-centric solutions.
                 
               </p>
 

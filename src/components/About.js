@@ -74,7 +74,7 @@ const About = () => {
             <div className="flex gap-x-8 items-center">
               <button className="btn btn-lg">
                 <a
-                  href="https://drive.google.com/file/d/1obpUCHjCv_6XREh6kNkJgQQE7UYvqttR/view"
+                  href="https://onedrive.live.com/?authkey=%21AFAR1tff0sMnHTM&id=C05128DCDE81300E%21318&cid=C05128DCDE81300E&parId=root&parQt=sharedby&o=OneUp"
                   download
                   target="_blank"
                 >

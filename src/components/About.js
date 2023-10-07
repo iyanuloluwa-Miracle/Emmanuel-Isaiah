@@ -75,7 +75,7 @@ const About = () => {
             <div className="flex gap-x-8 items-center">
               <button className="btn btn-lg">
                 <a
-                  href="https://docs.google.com/document/d/1jU4KJznBABCMTlkTeuKKqipFMwNHrfPg/edit?usp=sharing&ouid=117297486223789244966&rtpof=true&sd=true"
+                  href="https://drive.google.com/file/d/1obpUCHjCv_6XREh6kNkJgQQE7UYvqttR/view"
                   download
                   target="_blank"
                 >
